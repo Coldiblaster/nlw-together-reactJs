@@ -40,7 +40,7 @@ Para utilizar o Letmeask é bem simples, é preciso realizar o login via google 
 
 Este projeto é feito com ReactJs e Firebase, para o funcionamento completo da aplicação será necessário criar um projeto no firebase e realizar algumas configurações.
 
-🔖 [Libros](pages/teste#-libros)<br>
+🔖 [Configurações necessárias](pages/teste#-libros)<br>
 
 ```bash
 # Clone o repositório
@@ -53,9 +53,10 @@ $ yarn
 $ code .
 # Crie o .env na raiz do repositório
 $ Selecione todo conteúdo do .env.example
-# Insira os dados do firebase
+# Firebase
+$ Insira as chaves do firebase no .env
 # Inicie o Projeto
-$ yarn dev:serv
+$ yarn start
 ```
 
 ## :rocket: Deploy 
@@ -63,3 +64,7 @@ $ yarn dev:serv
 Passo a passo para executar o Deploy
 
 ## :open_file_folder: Linguagens e dependencias utilizadas
+
+- [x] React (https://pt-br.reactjs.org/)
+- [x] Firebase (https://firebase.google.com/?hl=pt)
+- [x] Typescript (https://www.typescriptlang.org/)
