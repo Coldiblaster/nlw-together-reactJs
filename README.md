@@ -9,8 +9,6 @@
   <img src="https://i.ibb.co/R4tPT8p/1-NLW-05-1920x1080.png" alt="1-NLW-05-1920x1080" border="0" />
 </h1>
 
-<br>
-
 
 ## 📚 Índice
 
@@ -25,14 +23,16 @@
 </p>
 
 
-## Introdução
+## :thought_balloon: Introdução
+Projeto realizado com o objetivo de compartilhar o conhecimento ou dúvidas com outras pessoas de qualquer lugar do país.
+Para utilizar o Letmeask é bem simples, é preciso realizar o login via google, para efetuar criação de sala ou realizar uma pergunta em alguma sala existente.
 
 ## Pré-requisitos :warning:
 
-- [x] [Docker](https://www.docker.com/get-started)
 - [x] [Node.js](https://nodejs.org/en/download)
 - [x] [Git](https://git-scm.com)
 - [x] [Yarn](https://yarnpkg.com/)
+- [x] [Firebase](https://firebase.google.com/?hl=pt)
 
 ## Como rodar a aplicação :arrow_forward:
 
