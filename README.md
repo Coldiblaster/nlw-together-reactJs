@@ -13,13 +13,11 @@
 ## 📚 Índice
 
 <p align="center">
-  <a href="#introdução">:small_blue_diamond: Introdução</a>
-  <a href="#pré-requisitos-warning">:small_blue_diamond: Pré-requisitos</a>
-  <a href="#como-rodar-a-aplicação-arrow_forward">:small_blue_diamond: Como rodar a aplicação</a>
-  <a href="#como-rodar-os-testes">:small_blue_diamond: Como rodar os testes</a>
-  <a href="#comandos-importantes-clipboard">:small_blue_diamond: Comandos Importantes</a>
-  <a href="#deploy-rocket">:small_blue_diamond: Deploy</a>
-  <a href="#linguagens-dependencias-e-libs-utilizadas-books">:small_blue_diamond: Linguagens, dependencias e libs utilizadas</a>
+  <a href="#thought_balloon-introdução">:small_blue_diamond: Introdução</a>
+  <a href="#warning-pré-requisitos">:small_blue_diamond: Pré-requisitos</a>
+  <a href="#arrow_forward-como-rodar-a-aplicação">:small_blue_diamond: Como rodar a aplicação</a>
+  <a href="#rocket-deploy">:small_blue_diamond: Deploy</a>
+  <a href="#open_file_folder-linguagens-e-dependencias-utilizadas">:small_blue_diamond: Linguagens e dependencias utilizadas</a>
 </p>
 
 
@@ -27,14 +25,14 @@
 Projeto realizado com o objetivo de compartilhar o conhecimento ou dúvidas com outras pessoas de qualquer lugar do país.
 Para utilizar o Letmeask é bem simples, é preciso realizar o login via google, para efetuar criação de sala ou realizar uma pergunta em alguma sala existente.
 
-## Pré-requisitos :warning:
+## :warning: Pré-requisitos 
 
 - [x] [Node.js](https://nodejs.org/en/download)
 - [x] [Git](https://git-scm.com)
 - [x] [Yarn](https://yarnpkg.com/)
 - [x] [Firebase](https://firebase.google.com/?hl=pt)
 
-## Como rodar a aplicação :arrow_forward:
+## :arrow_forward: Como rodar a aplicação 
 
 ```bash
 # Clone o repositório
@@ -53,7 +51,10 @@ $ docker run --name redis -p 6379:6379 -d -t redis:alpine
 $ yarn typeorm migration:run
 # Inicie o Projeto
 $ yarn dev:serv
+```
 
-## Deploy :rocket:
+## :rocket: Deploy 
 
 Passo a passo para executar o Deploy
+
+## :open_file_folder: Linguagens e dependencias utilizadas
